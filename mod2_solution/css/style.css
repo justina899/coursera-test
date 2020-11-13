@@ -6,60 +6,82 @@ h1 {
 	margin-top: 30px;
   	margin-bottom: 30px;
   	text-align: center;
-  	font-family: Arial;
+  	font-family: Comic Sans MS;
 }
 h2 {
 	text-align: center;
-	width: 150px;
-	height: 30px;
-	background-position: right;
+	width: 39%;
+	height: 30%;
+	background-position: relative right;
 	padding: 0px;
-	border: 1px solid black;
-	font-family: Arial;
+	border: 2px solid black;
+	font-family: Comic Sans MS;
 }
 p {
-  background-color: #5F9EA0;
+  background-color: #888844;
   width: 90%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Arial;
+  font-family: Comic Sans MS;
   color: black;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 0;
-  border: 1px solid black;
-
+  border: 2px solid black;
 }
-#title1 {
+#p2 {
+  background-color: #888844;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Comic Sans MS;
+  color: black;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  border: 2px solid black;
+}
+#p3 {
+  background-color: #888844;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Comic Sans MS;
+  color: black;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  border: 2px solid black;
+}
+
+.title1 {
 	position: relative;
-	left: 240px;
-	top: 30px;
+	left: 56%;
+	top: 37px;
 	color: black;
 	background-color: pink;
 	text-align: center;
 }
-#title2 {
+.title2 {
 	position: relative;
-	left: 240px;
-	top: 30px;
+	left: 56%;
+	top: 37px;
 	color: white;
 	background-color: red;
 	text-align: center;
 
 }
-#title3 {
+.title3 {
 	position: relative;
-	left: 240px;
-	top: 30px;
+	left: 56%;
+	top: 37px;
 	color: black;
 	background-color: yellow;
 	text-align: center;
-}
-#p1 {
-	
-}
-#p2 {
-	
 }
